@@ -9,9 +9,9 @@
         A simple employee directory application
     </description>
     <author email="dominicmoran@gmail.com" href="http://dominicmoran.com">
-        Christophe Coenraets & Dominic Moran
+        Christophe Coenraets, Dominic Moran
     </author>
-    
+
     <feature name="http://api.phonegap.com/1.0/camera"/>
     <feature name="http://api.phonegap.com/1.0/contacts"/>
     <feature name="http://api.phonegap.com/1.0/file"/>
